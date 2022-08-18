@@ -1,0 +1,33 @@
+/* html{
+    max-width: 0;
+    padding: 0;
+} */
+
+body{
+    text-align: center;
+    background-image: url(pexels-jess-bailey-designs-1097930.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+}
+.top-container{
+    height: 450px;
+    margin-top: 40%;
+}
+
+.middle-container{
+    margin: 0;
+}
+
+/* .bottom-container{
+    
+} */
+
+.all-containers{
+    width: 50%;
+    margin: 0 auto;
+
+}
+
+
