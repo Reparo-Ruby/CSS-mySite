@@ -1,8 +1,4 @@
-/* html{
-    max-width: 0;
-    padding: 0;
-} */
-
+/* 
 body{
     text-align: center;
     background-image: url(pexels-jess-bailey-designs-1097930.jpg);
@@ -10,24 +6,47 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     height: 100vh;
-}
-.top-container{
-    height: 450px;
-    margin-top: 40%;
-}
-
-.middle-container{
-    margin: 0;
-}
-
-/* .bottom-container{
-    
 } */
 
-.all-containers{
-    width: 50%;
-    margin: 0 auto;
-
+body{
+    text-align: center;
+    margin: 0px;
 }
 
+.top-container{
+    height: 100vh;
+    position: relative;
+    background-image: url(pexels-vojtech-okenka-390392.jpg);
+    background-size: 1350px;
+    
+}
+
+hr{
+    margin: 0px;
+}
+
+.all-containers{
+    background-color: #BC9E82;
+}
+
+.intro{
+    margin-top: 0px;
+    margin-bottom: 25%;
+    color: crimson;
+}
+
+.name{
+    margin-top: 0px;
+    padding-top: 250px;
+}
+
+img{
+    margin-top: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
 
